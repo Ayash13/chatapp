@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ayash/StudioProjects/chatapp/build/image_picker_android/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/0ce731f8c62e88af9af421907435d7da/transformed/core-1.8.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/chatapp/build/image_picker_android/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/0ce731f8c62e88af9af421907435d7da/transformed/core-1.8.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/chatapp/build/image_picker_android/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/0ce731f8c62e88af9af421907435d7da/transformed/core-1.8.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ayash/StudioProjects/chatapp/build/image_picker_android/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/ayash/.gradle/caches/transforms-3/0ce731f8c62e88af9af421907435d7da/transformed/core-1.8.0/res/layout-v21/notification_action.xml"
+    }
+]

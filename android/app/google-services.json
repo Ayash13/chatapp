@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "503218785782",
+    "firebase_url": "https://cobaaja-b3521-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cobaaja-b3521",
+    "storage_bucket": "cobaaja-b3521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503218785782:android:0b2d8356efa84c4aae0bd7",
+        "android_client_info": {
+          "package_name": "com.Ay.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503218785782-rp5aucekdhlgcemig89gl7gbbjk5lkbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Ay.chatapp",
+            "certificate_hash": "3d4db635fc392956ab6740916c6bfb332b8c02fa"
+          }
+        },
+        {
+          "client_id": "503218785782-ujatioh3tbbhqqi4iathvib9r2i5fhsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6sGYcCEP_wZ3MIIw21uGiXGEv7WynrJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503218785782-ujatioh3tbbhqqi4iathvib9r2i5fhsv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "503218785782-la82la84fb4vlbtnimh1l51ij0537gc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Ay.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

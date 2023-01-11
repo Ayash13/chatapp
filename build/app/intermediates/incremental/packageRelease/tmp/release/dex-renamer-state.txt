@@ -1,0 +1,4 @@
+#Wed Jan 11 03:43:39 WIB 2023
+base.0=/Users/ayash/StudioProjects/chatapp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
