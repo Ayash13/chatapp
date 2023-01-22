@@ -2,6 +2,10 @@
 
 Chat app project by Ay
 
+Fully works Chat App using Flutter and Firebase as a database
+It was deployed on android as APK and website
+you can try chatApp at https://cobaaja-b3521.firebaseapp.com 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
